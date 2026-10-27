@@ -89,7 +89,7 @@
     function sendMessage(event) {
       event.preventDefault();
       document.getElementById("formMessage").textContent =
-        "डेमो फॉर्म है। आपकी जानकारी अभी किसी सर्वर पर नहीं भेजी गई है।";
+        'this is real
     }
   </script>
 </body>
